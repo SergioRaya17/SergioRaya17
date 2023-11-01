@@ -1,8 +1,6 @@
-# Hola, soy Sergio Raya 👋
+# Hola! soy Sergio 👋
 
-!Estadísticas de GitHub
-
-Soy un informático apasionado por la tecnología y el **desarrollo de software**. Me gusta aprender cosas nuevas y compartir mis **conocimientos** con la comunidad.
+Soy informático en formación 📚. Me encanta el mundo de la programación, siempre intento seguir ampliando mis **conocimientos** y compartirlos con la comunidad. Tengo expetiencia en lenguajes como Java y C/C++. Interesado en la inteligencia artificial 🤖
 
 ## 📚 Formación
 
