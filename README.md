@@ -1,4 +1,4 @@
-# Hola! Soy Sergio 👋
+# Hola! Mi nombre es Sergio Raya 👋
 
 Sigo *formandome* continuamente 📚. Me encanta el mundo de la programación, siempre intento seguir ampliando mis **conocimientos** y compartirlos con la comunidad. Tengo expetiencia en lenguajes como Java y C/C++.
 
