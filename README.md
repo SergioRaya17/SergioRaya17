@@ -1,4 +1,4 @@
-# Hola! soy Sergio 👋
+# Hola! Soy Sergio 👋
 
 Soy informático en formación 📚. Me encanta el mundo de la programación, siempre intento seguir ampliando mis **conocimientos** y compartirlos con la comunidad. Tengo expetiencia en lenguajes como Java y C/C++.
 
