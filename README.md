@@ -16,22 +16,17 @@ Soy un informático apasionado por la tecnología y el desarrollo de software. M
 Estas son algunas de las tecnologías y lenguajes que domino o con los que he trabajado:
 
 - HTML, CSS, JavaScript
-- React, Angular, Vue
-- Node.js, Express, MongoDB
-- Python, Django, Flask
-- Java, Spring Boot, Hibernate
-- C#, .NET, Entity Framework
-- SQL, MySQL, PostgreSQL
-- Git, GitHub, GitLab
-- Docker, Kubernetes, AWS
+- Java, C, C++
+- Swift
+- Wordpress
 
 ## 📫 Contacto
 
 Si quieres contactar conmigo, puedes hacerlo a través de:
 
-- Correo electrónico
-- [LinkedIn](https://github.com/DenverCoder1/github-readme-streak-stats)
-- [Twitter](http://github-readme-streak-stats.herokuapp.com/demo/)
+- Correo electrónico: sergiorayarobles@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/sergio-raya-robles-60318626a/)
+- [Instagram](https://www.instagram.com/sergio_raya17/)
 
 <!---
 SergioRaya17/SergioRaya17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
