@@ -1,6 +1,6 @@
 # Hola! Soy Sergio 👋
 
-Soy informático *en formación* 📚. Me encanta el mundo de la programación, siempre intento seguir ampliando mis **conocimientos** y compartirlos con la comunidad. Tengo expetiencia en lenguajes como Java y C/C++.
+Sigo *formandome*, actualmente en un Grado Superior en el CES Lope de Vega📚. Me encanta el mundo de la programación, siempre intento seguir ampliando mis **conocimientos** y compartirlos con la comunidad. Tengo expetiencia en lenguajes como Java y C/C++.
 
 ## 📚 Formación
 
