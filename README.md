@@ -1,6 +1,6 @@
 # Hola! soy Sergio 👋
 
-Soy informático en formación 📚. Me encanta el mundo de la programación, siempre intento seguir ampliando mis **conocimientos** y compartirlos con la comunidad. Tengo expetiencia en lenguajes como Java y C/C++. Interesado en la inteligencia artificial 🤖
+Soy informático en formación 📚. Me encanta el mundo de la programación, siempre intento seguir ampliando mis **conocimientos** y compartirlos con la comunidad. Tengo expetiencia en lenguajes como Java y C/C++.
 
 ## 📚 Formación
 
