@@ -1,6 +1,6 @@
 # Hola, soy Sergio Raya 👋
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=[tu usuario]&show_icons=true&theme=radical" alt="Estadísticas de GitHub">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=[SergioRaya17]&show_icons=true&theme=radical" alt="Estadísticas de GitHub">
 
 Soy un informático apasionado por la tecnología y el desarrollo de software. Me gusta aprender cosas nuevas y compartir mis conocimientos con la comunidad.
 
