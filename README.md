@@ -6,9 +6,9 @@ Soy un informático apasionado por la tecnología y el desarrollo de software. M
 
 ## 📚 Formación
 
-- Grado en Ingeniería Informática por la Universidad de Córdoba.
-- Máster en Inteligencia Artificial por la Universidad Politécnica de Madrid.
-- Certificado en Desarrollo Web Full Stack por [FreeCodeCamp](https://www.youtube.com/watch?v=ZUeklrWb_mE).
+- Técnico en Sistemas Microinformáticos y Redes.
+- Estudiando Ténico en Desarrollo de Aplicaciones Multiplataforma.
+- Certificado en Routing and Switching por [Cisco](https://www.cisco.com/#tabs-ca9b217826-item-1b113ceb83-tab).
 
 ## 💻 Proyectos
 
