@@ -13,9 +13,8 @@ Sigo *formandome* continuamente 📚. Me encanta el mundo de la programación, s
 
 Estas son algunas de las tecnologías y lenguajes que domino o con los que he trabajado:
 
-- HTML, CSS, JavaScript
-- Java, C, C++
-- Swift
+- HTML, CSS
+- Java, C, C++, C#
 - Wordpress
 
 ## 📫 Contacto
