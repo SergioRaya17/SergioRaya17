@@ -8,14 +8,16 @@ Sigo *formandome* continuamente 📚. Me encanta el mundo de la programación, s
 - Estudiando Ténico en Desarrollo de Aplicaciones Multiplataforma.
 - Certificado en Routing and Switching por [Cisco](https://www.cisco.com/#tabs-ca9b217826-item-1b113ceb83-tab).
 - Certificado en C por [Programiz](https://programiz.pro/certificates/detail/B456A96C3F63).
+- Certiificado en C++ por [Programiz](https://programiz.pro/certificates/detail/B456A96C3F63).
+- Certificado en JS y manejo del DOM [Code Academy](https://www.codecademy.com/profiles/Sergio_Raya_Robles/certificates/36ae898a1d1c8524815305b2d1d2ebab).
 
 ## 🛠️ Habilidades
 
 Estas son algunas de las tecnologías y lenguajes que domino o con los que he trabajado:
 
-- HTML, CSS
+- HTML, CSS, JS
 - Java, C, C++, C#
-- Wordpress
+- WPF, Wordpress
 
 ## 📫 Contacto
 
