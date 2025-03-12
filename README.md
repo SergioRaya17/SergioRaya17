@@ -1,6 +1,6 @@
 # Hola! Mi nombre es Sergio Raya 👋
 
-Sigo *formandome* continuamente 📚. Me encanta el mundo de la programación, siempre intento seguir ampliando mis **conocimientos** y compartirlos con la comunidad. Tengo experiencia en lenguajes como Java y C/C++ y C#.
+Estoy listo para enfrentar desafíos. Me encanta investigar y seguir sumergiéndome en el mundo de la programación.
 
 ## 📚 Formación
 
@@ -17,7 +17,7 @@ Estas son algunas de las tecnologías y lenguajes que domino o con los que he tr
 
 - HTML, CSS, JS
 - Java, C, C++, C#
-- WPF, Wordpress
+- WPF, .NET, EF
 
 ## 📫 Contacto
 
@@ -27,7 +27,3 @@ Si quieres contactar conmigo, puedes hacerlo a través de:
 - [LinkedIn](https://www.linkedin.com/in/sergio-raya-robles-60318626a/)
 - [Instagram](https://www.instagram.com/sergio_raya17/)
 
-<!---
-SergioRaya17/SergioRaya17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
