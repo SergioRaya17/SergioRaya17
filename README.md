@@ -4,8 +4,8 @@ Estoy listo para enfrentar desafíos. Me encanta investigar y seguir sumergiénd
 
 ## 📚 Formación
 
+- Ténico en Desarrollo de Aplicaciones Multiplataforma.
 - Técnico en Sistemas Microinformáticos y Redes.
-- Estudiando Ténico en Desarrollo de Aplicaciones Multiplataforma.
 - Certificado en Routing and Switching por [Cisco](https://www.cisco.com/#tabs-ca9b217826-item-1b113ceb83-tab).
 - Certificado en C por [Programiz](https://programiz.pro/certificates/detail/B456A96C3F63).
 - Certiificado en C++ por [Programiz](https://programiz.pro/certificates/detail/B456A96C3F63).
@@ -16,8 +16,9 @@ Estoy listo para enfrentar desafíos. Me encanta investigar y seguir sumergiénd
 Estas son algunas de las tecnologías y lenguajes que domino o con los que he trabajado:
 
 - HTML, CSS, JS
-- Java, C, C++, C#
+- Java, C#, C++, C
 - WPF, .NET, EF
+- Databricks
 
 ## 📫 Contacto
 
