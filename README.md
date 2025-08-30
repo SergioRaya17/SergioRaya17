@@ -18,7 +18,9 @@ Estas son algunas de las tecnologías y lenguajes que domino o con los que he tr
 - HTML, CSS, JS
 - Java, C#, C++, C
 - WPF, .NET, EF
-- Databricks
+- Databricks, PowerBI
+- Python, Phycharm, SQL
+- Azure
 
 ## 📫 Contacto
 
