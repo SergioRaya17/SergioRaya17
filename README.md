@@ -19,7 +19,7 @@ Estas son algunas de las tecnologías y lenguajes que domino o con los que he tr
 - Java, C#, C++, C
 - WPF, .NET, EF
 - Databricks, PowerBI
-- Python, Phycharm, SQL
+- Python, PhySpark, SQL
 - Azure
 
 ## 📫 Contacto
